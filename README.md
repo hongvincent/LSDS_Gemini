@@ -1,4 +1,3 @@
-```markdown
 # LSDS: LLM based Smishing Detection System
 
 This project provides a REST API built using FastAPI to detect potential phishing URLs from SMS text messages. It utilizes a combination of LLM(via Google's Gemini), web scraping, and external APIs to analyze and determine the likelihood of a URL being part of a Smishing attempt.
