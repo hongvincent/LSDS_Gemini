@@ -66,7 +66,7 @@ This project provides a REST API built using FastAPI to detect potential phishin
 - **Request Body**: 
   ```json
   {
-    "sms_text": "Your SMS message containing URLs"
+    "sms_text": "[Web발신] 암호화폐 상한가 확실한 정보 http://XXXXpay.support"
   }
   ```
 - **Response**:
