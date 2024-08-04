@@ -131,4 +131,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-Special thanks to the developers and maintainers of the FastAPI, Selenium, and Google Gemini AI libraries, which made this project possible.
+Special thanks to the developers and maintainers of the Google Gemini, FastAPI, Selenium, and libraries, which made this project possible.
