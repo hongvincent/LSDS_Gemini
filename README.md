@@ -132,6 +132,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 Special thanks to the developers and maintainers of the FastAPI, Selenium, and Google Gemini AI libraries, which made this project possible.
-```
-
-This README file covers the key aspects of your project, including installation, usage, and project structure, providing a clear guide for users and contributors.
